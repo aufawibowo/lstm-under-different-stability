@@ -1,0 +1,3 @@
+[submodule "lstm-under-different-stability-notebook"]
+	path = lstm-under-different-stability-notebook
+	url = https://github.com/aufawibowo/lstm-under-different-stability-notebook
